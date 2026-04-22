@@ -1,0 +1,98 @@
+Keywords,Utterance,Response
+"hello, hi, greet, welcome","hello, hi, hey, good morning, good afternoon, greetings",Hello! Welcome to Colti Support. How can I assist you with your vehicle today?
+"hello, hi, greet","hey there, what's up, howdy","Hey! Great to have you here. Whether it's sales, service, or support — I'm ready to help!"
+"start, begin, help","i need help, can you help me, i have a question",Of course! I'm here to help. What would you like to know about our vehicles or services?
+"price, cost, how much","how much does the car cost, what is the price, pricing",Our vehicle prices vary by model. Please visit our website or speak with a sales agent for the latest pricing and offers.
+"price, cost, budget","i have a budget of, affordable car, cheapest model",We have a range of vehicles to suit different budgets. Let us know your budget and we'll find the best fit for you!
+"offer, deal, discount, promotion","any discounts available, current offers, promotions",We run seasonal promotions! Check our website or contact our sales team for current deals and offers.
+"finance, loan, installment, payment","can i finance a car, monthly payment, installment plan",Yes! We offer flexible financing options. Our team can tailor a payment plan to suit your needs.
+"trade-in, exchange, old car","can i trade in my old car, swap my vehicle",Absolutely! We accept trade-ins. Bring your vehicle for a free evaluation and we'll apply the value toward your new purchase.
+"test drive, try, demo","can i test drive, book a test drive, i want to try the car",We'd love to set up a test drive for you! Visit our showroom or book online at your convenience.
+"new car, latest model, new arrival","what new cars do you have, latest models available",We have exciting new arrivals in our lineup! Visit our showroom or website to explore the latest models.
+"SUV, crossover","do you sell SUVs, i want an SUV, best SUV","Yes, we carry a great selection of SUVs perfect for families and off-road adventures. Would you like to see our available models?"
+"sedan, saloon","do you have sedans, best sedan, looking for a sedan","Our sedan lineup offers style, comfort, and fuel efficiency. Let us help you find the perfect one!"
+"truck, pickup, bakkie","do you sell trucks, pickup truck, i need a truck",We have powerful and reliable trucks for work or leisure. What will you be using it for?
+"electric, EV, hybrid, eco","do you have electric cars, hybrid vehicles, eco-friendly",Yes! We offer electric and hybrid vehicles for environmentally conscious drivers. Great savings on fuel too!
+"luxury, premium, high-end","luxury car, premium vehicle, top of the range",Our premium range offers cutting-edge technology and unmatched comfort. Let us give you an exclusive tour!
+"van, minibus, MPV","do you have vans, minibus, family van",We carry commercial vans and MPVs ideal for large families or business use. What capacity do you need?
+"sports car, fast car","do you have sports cars, fast vehicles, performance car",Our sports lineup is designed for performance enthusiasts. Visit us to experience the thrill firsthand!
+"service, maintenance, check-up","when should i service my car, maintenance schedule","We recommend servicing every 10,000 km or 6 months, whichever comes first. Book a service appointment with us!"
+"oil change, oil service","when to change oil, oil change service","Engine oil should typically be changed every 5,000–10,000 km depending on your vehicle. Our service team can check this for you."
+"tire, tyre, wheel","my tire is flat, need new tires, tyre pressure","We offer tire inspection, replacement, and pressure checks. Come in anytime or book a slot with our technicians."
+"brake, brakes","my brakes are making noise, brake check, brake service",Noisy brakes could indicate wear. Visit our service center immediately for a safety inspection — your safety is our priority.
+"battery, car battery","my car won't start, battery dead, need a new battery",A dead battery is a common issue. We can test and replace your battery quickly. Come in or we can assist roadside.
+"AC, air conditioning, aircon","my AC is not working, car AC service, aircon repair",AC issues can be uncomfortable! Bring your vehicle in and our technicians will diagnose and repair it promptly.
+"engine, engine light, check engine","check engine light on, engine warning, engine problem",A check engine light should never be ignored. Please bring your vehicle in as soon as possible for a diagnostic scan.
+"gearbox, transmission","gearbox problem, transmission slipping, gear not changing",Transmission issues can worsen quickly. Please schedule a service appointment so our experts can assess the problem.
+"suspension, shock absorber","car is bumpy, shock absorbers, suspension problem",Worn suspension affects comfort and safety. Our team can inspect and replace shock absorbers as needed.
+"steering, power steering","my steering is stiff, power steering issue, steering problem",Stiff or loose steering needs immediate attention. Book a service check with us today.
+"exhaust, muffler, smoke","car is smoking, exhaust problem, loud exhaust",Unusual smoke or loud exhaust may signal serious issues. Please bring your vehicle in for a thorough inspection.
+"repair, fix, broken","my car is broken, i need a repair, car stopped working",We're sorry to hear that! Our certified technicians are ready to diagnose and fix the issue. Book a repair appointment today.
+"warranty, guarantee","is my car under warranty, warranty coverage, what does warranty cover",Our vehicles come with a standard manufacturer warranty. Contact us with your VIN to check your coverage details.
+"extended warranty, warranty extension","can i extend warranty, extended warranty plan",Yes! We offer extended warranty packages for added peace of mind. Ask our team for available plans.
+"recall, safety recall","is my car recalled, safety notice, recall check","For recall information, please provide your vehicle VIN and we'll check it against current recall notices immediately."
+"spare parts, parts, accessories","do you have spare parts, need a part, car accessories",We stock genuine OEM parts and accessories. Visit our parts department or call us with your part number.
+"insurance claim, accident repair","i was in an accident, insurance claim, car accident",We're sorry about your accident. Our team handles insurance claim repairs. Bring your vehicle in and we'll assist you through the process.
+"register, registration, license","how to register a car, vehicle registration, license plates",We assist with vehicle registration and licensing. Our team will guide you through all required documentation.
+"transfer, ownership transfer","how to transfer car ownership, sell my car, ownership change",Vehicle ownership transfer requires specific documentation. Our team can guide you through the process step by step.
+"import, imported car","can i import a car, importing a vehicle, buy from abroad",We can help with imported vehicle compliance and roadworthiness checks. Contact us for more details.
+"logbook, documents, title deed","i lost my logbook, vehicle documents, title","For lost logbook assistance, visit the relevant transport authority. We can provide supporting documentation if needed."
+"fuel, petrol, diesel, gas","what fuel does the car use, petrol or diesel",Fuel type depends on the model. We have both petrol and diesel options. Which model are you considering?
+"fuel consumption, mpg, economy","how much fuel does it consume, fuel economy, miles per gallon",Our vehicles are designed with fuel efficiency in mind. Specific consumption figures are available in each model's spec sheet.
+"fuel pump, refuel","where to refuel, petrol station, fuel pump issue","You can refuel at any petrol station. If you suspect a fuel pump issue, bring your vehicle in for a check immediately."
+"electric charging, EV charging","how to charge electric car, charging station, EV range",Our EVs support both home charging and public fast chargers. Range varies by model — ask us for specific details!
+"safety, safe, crash rating","is the car safe, crash test rating, safety features",Our vehicles undergo rigorous safety testing. Many models come with 5-star ratings and advanced safety tech.
+"airbags, seatbelt","does it have airbags, seatbelts, passive safety",All our vehicles are equipped with multiple airbags and advanced seatbelt systems for maximum occupant protection.
+"camera, reverse camera, parking sensor","does it have a reverse camera, parking assist, sensors",Most of our models come with reverse cameras and parking sensors. Check individual model specs for details.
+"GPS, navigation, maps","does the car have GPS, built-in navigation, maps",Many models feature built-in navigation systems. Others support smartphone integration via Android Auto and Apple CarPlay.
+"Bluetooth, connectivity, USB","does it have Bluetooth, USB ports, phone connectivity","Our vehicles feature Bluetooth, USB ports, and wireless connectivity to keep you connected on the go."
+"cruise control, adaptive cruise","does it have cruise control, adaptive cruise control, speed assist","Cruise control is standard on most models, and adaptive cruise control is available on premium trims."
+"lane assist, collision warning","lane departure warning, collision detection, driver assist",We offer a full suite of driver assistance technologies including lane keep assist and forward collision warning.
+"sunroof, panoramic roof","does it have a sunroof, panoramic roof option",Sunroofs and panoramic roofs are available on select models and trim levels. Ask our sales team for options.
+"heated seats, cooling seats","does it have heated seats, ventilated seats, seat comfort",Heated and ventilated seats are available in our comfort and premium trims — perfect for any climate!
+"sound system, speakers, audio","does it have a good sound system, premium audio, speakers",We offer premium audio systems including Harman Kardon and Bose as optional upgrades on select models.
+"contact, call, reach","how do I contact you, phone number, email address","You can reach us by phone, email, or visit our showroom. Our support team is available Monday–Saturday, 8AM–6PM."
+"showroom, location, where","where is your showroom, your address, location",Our showroom is conveniently located in the city center. Visit our website for the exact address and directions.
+"hours, working hours, open","what time do you open, business hours, are you open on Sunday","We're open Monday to Saturday, 8:00 AM to 6:00 PM. We're closed on Sundays and public holidays."
+"appointment, booking, schedule","how do i book an appointment, schedule a visit, reservation","Booking is easy! You can call us, book online, or visit the showroom directly to schedule an appointment."
+"feedback, complaint, review","i want to give feedback, complaint, poor service",We're sorry if your experience wasn't perfect. Please share your feedback and we'll work to make it right for you.
+"compliment, great service, happy","great service, happy with my car, excellent support",Thank you so much! We truly appreciate your kind words. It's our pleasure to serve you!
+"social media, Facebook, Instagram","are you on social media, Facebook page, Instagram","Yes! Follow us on Facebook, Instagram, and Twitter for the latest news, offers, and updates from our dealership."
+"newsletter, updates, subscribe","subscribe to newsletter, car updates, mailing list",Stay in the loop! Subscribe to our newsletter through our website for exclusive updates and promotions.
+"chat, live chat, agent","i want to speak to an agent, live support, human agent",I'll connect you with one of our team members right away. Please hold while we transfer your chat.
+"language, speak my language","do you speak Swahili, Kikuyu, French support",We support multiple languages. Please let us know your preferred language and we'll do our best to assist you.
+"customize, personalize, modify","can i customize my car, personal touches, modifications",Yes! We offer a range of factory and aftermarket customization options. Visit our accessories desk to explore possibilities.
+"color, paint, color options","what colors are available, paint options, color choice","We offer a wide spectrum of colors for each model, including metallic and matte finishes. What's your favorite color?"
+"tint, window tint","can i tint my windows, window tinting, dark tint",Window tinting is available through our accessories department. We'll ensure it meets local regulations.
+"roof rack, cargo, storage","roof rack, cargo box, extra storage","We offer roof racks, cargo boxes, and other storage solutions. Ask our accessories team for compatible options."
+"floor mats, car mats, interior","i need floor mats, rubber mats, interior accessories",We stock genuine floor mats and interior accessories to keep your vehicle clean and protected.
+"bull bar, nudge bar, protection","bull bar for my car, nudge bar, front protection",Bull bars and nudge bars are available for compatible models. Our team can advise on the right fit and installation.
+"spoiler, body kit, exterior","spoiler for my car, body kit, exterior styling",We offer a range of exterior styling options including spoilers and body kits. Book a consultation with our accessories team.
+"breakdown, stuck, help on road","my car broke down, i'm stuck on the road, stranded",We're sorry to hear that! Call our 24/7 roadside assistance hotline and we'll dispatch help to your location immediately.
+"towing, tow truck, recovery","i need a tow truck, car needs towing, recovery service",We provide towing and recovery services. Call our emergency line and we'll get to you as quickly as possible.
+"accident, crash, hit","i was in an accident, car crash, I hit something",Please ensure everyone is safe first. Then call emergency services and our support line — we'll guide you from there.
+"lockout, locked out, keys inside","i locked my keys inside, locked out of car, spare key",Being locked out is stressful! Our roadside team can assist. Do you have a spare key or need a locksmith service?
+"flat tire, puncture, tire burst","i have a flat tire, tire puncture, tire burst on highway",Stay calm and pull over safely. We'll send roadside assistance to change or repair your tire as quickly as possible.
+"overheating, engine hot, temperature","car is overheating, engine temperature high, radiator",Pull over immediately and turn off the engine! Do not open the radiator cap. Call us and we'll send assistance right away.
+"out of fuel, empty tank","my car ran out of fuel, empty tank, no gas",No worries! Our roadside team can bring you enough fuel to get to the nearest station. Call our helpline now.
+"website, online, portal","your website, online portal, digital services","Our website offers vehicle browsing, service booking, and financing tools. Visit us at our official URL for a seamless experience."
+"app, mobile app, download","do you have an app, mobile application, download your app","Yes! Our mobile app lets you book services, track repairs, and explore vehicles on the go. Download it on iOS or Android."
+online service booking,"can I book service online, online appointment, digital booking","Absolutely! Our online booking system is available 24/7. Select your service, choose a time, and we'll confirm via email or SMS."
+"payment, online payment, pay bill","can i pay online, online payment for service, pay my bill","Yes, we accept online payments for service invoices through our secure payment portal. Convenient and safe!"
+"invoice, receipt, bill","i need a receipt, service invoice, billing statement",We can email you a digital invoice right after your service. Just provide your registered email address.
+"loyalty, rewards, points","loyalty program, rewards points, member benefits",Join our Colti Rewards loyalty program and earn points on every purchase and service visit. Ask us how to sign up!
+"environment, eco, green","are your cars eco-friendly, environmental impact, green vehicles",We are committed to sustainability. Our EV and hybrid range significantly reduces emissions to protect our environment.
+"carbon, emission, pollution","car emissions, CO2, pollution","Our newer models meet strict emission standards, and our EV lineup produces zero tailpipe emissions — great for the planet!"
+"recycle, scrap, old vehicle","how to dispose of old car, scrap vehicle, recycle car",We partner with certified scrap yards for responsible vehicle recycling. Ask our team for referrals.
+"CSR, community, social","what does your company do for community, CSR","We actively support road safety campaigns, youth training programs, and environmental initiatives in our communities."
+"bad, poor, worst","worst service ever, very disappointed, terrible experience",We sincerely apologize for your experience. Please share the details so our management team can address this urgently.
+"rude, unprofessional, bad staff","your staff was rude, unprofessional, poor attitude",We're truly sorry to hear this. This is not the standard we uphold. We'll investigate and ensure better service.
+"overcharge, too expensive, billing error","you overcharged me, wrong billing, too expensive",We apologize for any billing concern. Please share your invoice and we'll review and correct it immediately.
+"late, delay, waiting","my car is taking too long, repair delay, waiting too long",We understand your frustration and apologize for the delay. Let us check the status of your vehicle right away.
+"scam, fraud, fake","are you a scam, is this real, fake dealership",We are a fully registered and authorized dealership. Your safety and trust are our top priorities. Feel free to verify our credentials.
+"hate, angry, frustrated","i hate this, i'm so frustrated, this is ridiculous",We're really sorry to hear that. Please tell us more about what went wrong and we'll do everything we can to make it right.
+"thank you, thanks, appreciated","thanks a lot, thank you for your help, much appreciated",You're very welcome! It was a pleasure assisting you. Don't hesitate to reach out anytime you need us.
+"bye, goodbye, see you","goodbye, see you later, take care","Thank you for reaching out! Drive safe, and we look forward to serving you again. Goodbye!"
+"no, nothing else, done","no more questions, i'm good, nothing else","Alright! If you ever need help again, we're just a message away. Have a great day!"
+"yes, okay, sure","yes please, okay go ahead, sure thing",Great! Let's proceed. Please share any additional details so I can assist you better.
+"more info, tell me more, details","can you tell me more, more information, elaborate",Of course! Please specify what you'd like to know more about and I'll provide full details right away.
